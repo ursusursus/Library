@@ -13,4 +13,8 @@ public class Foo {
     public static String bar() {
         return "adasdadasdasdass";
     }
+
+    public static String foo() {
+        return "adasdadasdasdass";
+    }
 }
