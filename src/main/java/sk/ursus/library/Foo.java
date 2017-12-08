@@ -7,6 +7,6 @@ package sk.ursus.library;
 public class Foo {
 
     public static String foo() {
-        return "adasdas";
+        return "adasdadasdasdass";
     }
 }
