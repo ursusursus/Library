@@ -9,4 +9,8 @@ public class Foo {
     public static String quax() {
         return "adasdadasdasdass";
     }
+
+    public static String bar() {
+        return "adasdadasdasdass";
+    }
 }
